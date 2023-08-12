@@ -1,0 +1,38 @@
+#productos, #productosCategoria {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.625rem;
+}
+
+#productoID {
+  display: grid;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 90%;
+  max-width: 31.25rem;
+  margin: auto;
+}
+
+.agregarCarrito {
+  width: 80%;
+  max-width: 18.75rem;
+}
+
+#carritoHTML {
+  text-align: center;
+  width: 90%;
+  margin: auto;
+}
+
+@media (min-width: 1024px) {
+  #productoID {
+    max-width: 85%;
+    grid-template-columns: 40% 30%;
+    gap: 3.125rem;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

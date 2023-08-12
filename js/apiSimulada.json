@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "nombre": "Notebook Dell Vostro 3400 Amd Athlon 3050u 4gb 256gb Ssd W11",
+    "precio": "199.999",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_813885-MLA70936583317_082023-O.webp",
+    "descripción": "Portátil Dell Vostro 3405 con Windows 11 Home. Procesador AMD Athlon Silver, 4 GB RAM, 256 GB SSD. Pantalla HD de 14 pulgadas, carga rápida, Dell Mobile Connect para integración con smartphones, procesamiento AMD potente. Conectividad WiFi, Bluetooth, LAN GbE. Puertos USB, HDMI, cámara HD, seguridad TPM 2.0, lector de huellas. Dimensiones compactas y peso ligero: 328,7 x 239,5 x 19,9 mm, 1,7 kg.",
+    "color": "gris oscuro",
+    "categoria": "computacion"
+  },
+  {
+    "id": 2,
+    "nombre": "Notebook Dell Inspiron 3525 plata 15.5 pulgadas, AMD Ryzen 5 5500U 8GB de RAM 256GB SSD, AMD Radeon RX Vega 7 120 Hz 1920x1080px Windows 11 Home",
+    "precio": "419.999",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_696185-MLA54896761378_042023-O.webp",
+    "descripción": "Portátil Dell con enfoque en soluciones versátiles. Pantalla LCD 15.5 pulgadas Full HD vibrante. Potente AMD Ryzen 5 de 6 núcleos para multitarea. Rápido disco sólido 256 GB. Gráficos AMD Radeon RX Vega 7 para diseño y entretenimiento. Alto rendimiento en aplicaciones gráficas y juegos.",
+    "color": "plata",
+    "categoria": "computacion"
+  },
+  {
+    "id": 3,
+    "nombre": "Samsung Galaxy Book3 15.6 I5 8gb 512gb Color Silver",
+    "precio": "524.999",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_774259-MLU70633986498_072023-O.webp",
+    "descripción": "La notebook Samsung Premium Galaxy Book3 ofrece versatilidad para trabajo, estudio y entretenimiento. Pantalla FHD PLS de 15 pulgadas para colores vivos. Procesador Intel i5 para tareas variadas. Disco sólido 512 GB para agilidad. Gráficos Intel Iris Xe potentes. Ideal para diseño y juegos.",
+    "color": "Silver",
+    "categoria": "computacion"
+  },
+  {
+    "id": 4,
+    "nombre": "Notebook 14 Lenovo V14 G2 Int I3 1115g4 8gb Ssd 256+240 Free",
+    "precio": "363.999",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_775395-MLA70941586668_082023-O.webp",
+    "descripción": "La laptop Lenovo V14 G2 ITL es una solución eficiente para negocios y tareas diarias. Pantalla HD de 14 pulgadas con marcos estrechos. Procesador Intel Core i3, 8 GB RAM y doble almacenamiento SSD. Diseño elegante y resistente, pruebas de fiabilidad. Puerto USB-C, HDMI, audio Dolby. Cámara con tapa de seguridad. Medidas compactas y ligero: 324.2 x 215.2 x 19.9 mm, 1.6 kg. Duración de batería hasta 6 horas. Garantía Lenovo de 1 año.",
+    "color": "Iron grey",
+    "categoria": "computacion"
+  },
+  {
+    "id": 5,
+    "nombre": "Notebook Hp Amd Ryzen 5 5500u 8gb Ram 256gb Windows 11 Home 15.6 Pulgadas Azul Full Hd",
+    "precio": "359.999",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_998705-MLA53303083918_012023-O.webp",
+    "descripción": "La laptop HP 15-EF2729WM ofrece versatilidad para trabajo, estudio y entretenimiento. Pantalla FHD de 15.6 pulgadas con colores vivos. Potente procesador Ryzen 5 5500U para multitarea y contenidos. Rápido disco sólido 256 GB. Batería duradera para jornadas sin enchufes. Ideal para diversos ambientes.",
+    "color": "Azul",
+    "categoria": "computacion"
+  },
+  {
+    "id": 6,
+    "nombre": "Smart Tv 32¨ Philips Android Hd 32phd6917/77 + Bluetooth",
+    "precio": "84.999",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_810957-MLU69495827017_052023-O.webp",
+    "descripción": "El Android TV de Philips ofrece contenido personalizado y acceso a aplicaciones en la pantalla de inicio. Control por voz con el Asistente de Google para el televisor y dispositivos inteligentes. Compatible con barras de sonido Dolby Atmos para sonido tridimensional. Amplia selección de aplicaciones descargables desde la Play Store.",
+    "color": "Negro",
+    "categoria": "electronica"
+  },
+  {
+    "id": 7,
+    "nombre": "Smart TV Philips 6900 Series 43PFD6917/77 LED Android 10 Full HD 43 pulgadas 110V/240V",
+    "precio": "114.999",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_944170-MLA50821605362_072022-O.webp",
+    "descripción": "Philips se enfoca en la innovación y experiencia visual. El Smart TV 43PFD6917 brinda acceso a aplicaciones, navegación web y juegos. Resolución Full HD para imágenes detalladas y colores vibrantes. Sonido envolvente. Función Screen Share para duplicar contenido desde dispositivos. Amplía la experiencia más allá de la TV.",
+    "color": "Negro",
+    "categoria": "electronica"
+  },
+  {
+    "id": 8,
+    "nombre": "Smart TV Samsung Series 7 UN50AU7000GCZB LED Tizen 4K 50 pulgadas 220V - 240V",
+    "precio": "184.999",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_904598-MLU69493154879_052023-O.webp",
+    "descripción": "Samsung, líder en tecnología, ofrece productos de calidad superior. El Smart TV UN50AU7000G brinda acceso a apps, navegación web y juegos. Resolución 4K para realismo y detalle. Sonido envolvente. Función Screen Share para contenido desde dispositivos. Diseño con cables ocultos para un aspecto limpio. Experiencia visual excepcional y futuro mejor.",
+    "color": "Negro",
+    "categoria": "electronica"
+  },
+  {
+    "id": 9,
+    "nombre": "Smart TV Philips 7400 Series 50PUD7406/77 LED Android 10 4K 50 pulgadas 110V/240V",
+    "precio": "164.999",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_745854-MLA48622828334_122021-O.webp",
+    "descripción": "Philips prioriza innovación y detalles para experiencias visuales auténticas. El Smart TV 50PUD7406 brinda acceso a apps, navegación web y juegos. Resolución 4K para realismo y detalle. Sonido envolvente. Experiencia visual y auditiva mejoradas para disfrutar de contenidos y entretenimiento.",
+    "color": "Negro",
+    "categoria": "electronica"
+  },
+  {
+    "id": 10,
+    "nombre": "Televisor Tcl Smart Tv 40'' Led Full Hd Hdr 60hz Android Tv",
+    "precio": "109.999",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_668211-MLA54969122729_042023-O.webp",
+    "descripción": "La línea de Android TV L40S66E de 40 pulgadas maximiza momentos con pantalla FullScreen HD sin bordes. Sistema Android TV con Google Assistant integrado para acceso y control por voz. Imágenes inmersivas con perfil delgado y bisel estrecho. Aplicaciones populares y funciones inteligentes disponibles con Google Play Store y Google Assistant. Chromecast integrado para transmitir contenido móvil. Conexión Bluetooth 4.0 para dispositivos inalámbricos. imagen HD con HDR y Micro Dimming, sonido Dolby Audio y Smart Volume. Experiencia de entretenimiento completa y envolvente.",
+    "color": "Negro",
+    "categoria": "electronica"
+  },
+  {
+    "id": 11,
+    "nombre": "Aire acondicionado Samsung Digital Inverter split frío/calor 2687 frigorías blanco 220V - 240V AR12BSHQAWK",
+    "precio": "430.990",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_967361-MLA52486469639_112022-O.webp",
+    "descripción": "Climatizar tus espacios a lo largo del año es algo importante para tu comodidad. Un aire acondicionado frío/calor Samsung Digital Inverter es la mejor decisión, ya que conseguís una mejor relación costo-beneficio. Diseño adecuado a tus espacios. El tipo de aire split es de bajo consumo energético, de fácil mantenimiento y sumamente silencioso ya que cuenta con una unidad exterior. Reducción de humedad y temperatura constante. El deshumidificador absorbe el agua del aire y disminuye la molesta humedad, creando un ambiente confortable y de calidad. La tecnología inverter mejora la eficiencia de tu equipo, potencia su capacidad de refrigeración y proporciona una temperatura más estable. Programá de acuerdo a tus necesidades. Cuando las personas descansan su temperatura corporal baja gradualmente. Por eso, este aire cuenta con la función sleep, que hace que la temperatura del ambiente aumente a medida que pasa el tiempo. No tendrás que levantarte a apagarlo y podrás disfrutar de un sueño placentero.",
+    "color": "Blanco",
+    "categoria": "electrodomesticos"
+  },
+  {
+    "id": 12,
+    "nombre": "Aire Acondicionado Hitachi Split 3200w Frio Calor Inverter Color Blanco",
+    "precio": "349.999",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_689469-MLU70305930534_072023-O.webp",
+    "descripción": "Climatizar tus espacios a lo largo del año es algo importante para tu comodidad. Un aire acondicionado frío/calor Hitachi Inverter es la mejor decisión, ya que conseguís una mejor relación costo-beneficio. Diseño adecuado a tus espacios. El tipo de aire split es de bajo consumo energético, de fácil mantenimiento y sumamente silencioso ya que cuenta con una unidad exterior. Reducción de humedad. El deshumidificador absorbe el agua del aire y disminuye la molesta humedad, creando un ambiente confortable y de calidad.",
+    "color": "Blanco",
+    "categoria": "electrodomesticos"
+  },
+  {
+    "id": 13,
+    "nombre": "Aire acondicionado Midea split frío/calor 2348 frigorías blanco 220V MSAGFC-09H-01F",
+    "precio": "326.369",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_804667-MLA52680713144_122022-O.webp",
+    "descripción": "Climatizar tus espacios a lo largo del año es sin duda algo importante para tu comodidad y la de tus seres queridos. Contar con un aire acondicionado con función frío/calor es la mejor decisión. Con este aire Midea conseguí una mejor relación costo-beneficio. Diseño adecuado a tus espacios. El tipo de aire split es de bajo consumo energético, de fácil mantenimiento y sumamente silencioso ya que cuenta con una unidad exterior. Reducción de humedad. El deshumidificador absorbe el agua del aire y disminuye la molesta humedad, creando un ambiente confortable y de calidad. Programá de acuerdo a tus necesidades. Cuando las personas descansan su temperatura corporal baja gradualmente. Por eso, este aire cuenta con la función sleep, que hace que la temperatura del ambiente aumente a medida que pasa el tiempo. No tendrás que levantarte a apagarlo y podrás disfrutar de un sueño placentero.",
+    "color": "Blanco",
+    "categoria": "electrodomesticos"
+  },
+  {
+    "id": 14,
+    "nombre": "Aire acondicionado Electra Trend A split frío/calor 5332 frigorías blanco 220V ETRDO62TC",
+    "precio": "591.199",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_677863-MLA49654881847_042022-O.webp",
+    "descripción": "Climatizar tus espacios a lo largo del año es algo importante para tu comodidad. Un aire acondicionado frío/calor Electra Trend A es la mejor decisión, ya que conseguís una mejor relación costo-beneficio. Diseño adecuado a tus espacios. El tipo de aire split es de bajo consumo energético, de fácil mantenimiento y sumamente silencioso ya que cuenta con una unidad exterior. Reducción de humedad y temperatura constante. El deshumidificador absorbe el agua del aire y disminuye la molesta humedad, creando un ambiente confortable y de calidad. La tecnología inverter mejora la eficiencia de tu equipo, potencia su capacidad de refrigeración y proporciona una temperatura más estable. Programá de acuerdo a tus necesidades. Cuando las personas descansan su temperatura corporal baja gradualmente. Por eso, este aire cuenta con la función sleep, que hace que la temperatura del ambiente aumente a medida que pasa el tiempo. No tendrás que levantarte a apagarlo y podrás disfrutar de un sueño placentero.",
+    "color": "Blanco",
+    "categoria": "electrodomesticos"
+  },
+  {
+    "id": 15,
+    "nombre": "Aire acondicionado BGH Silent Air split frío/calor 3000 frigorías blanco 220V BS35WCCR",
+    "precio": "309.999",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_694117-MLA40282485103_122019-O.webp",
+    "descripción": "Fundada en 1913, BGH es hoy una de las marcas líderes a nivel mundial en la fabricación y distribución de electrodomesticos. Ofrece excelentes opciones de refrigeración y calefacción para el hogar con tecnología de avanzada y diseños de vanguardia.Climatizar tus espacios a lo largo del año es algo importante para tu comodidad. Un aire acondicionado frío/calor BGH Silent Air es la mejor decisión, ya que conseguís una mejor relación costo-beneficio. Diseño adecuado a tus espacios. El tipo de aire split es de bajo consumo energético, de fácil mantenimiento y sumamente silencioso ya que cuenta con una unidad exterior. Reducción de humedad. El deshumidificador absorbe el agua del aire y disminuye la molesta humedad, creando un ambiente confortable y de calidad. Programá de acuerdo a tus necesidades. Cuando las personas descansan su temperatura corporal baja gradualmente. Por eso, este aire cuenta con la función sleep, que hace que la temperatura del ambiente aumente a medida que pasa el tiempo. No tendrás que levantarte a apagarlo y podrás disfrutar de un sueño placentero.",
+    "color": "Blanco",
+    "categoria": "electrodomesticos"
+  }
+]
